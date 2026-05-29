@@ -1,23 +1,32 @@
 🚁 Simple Controlled Drone Project using C++, MATLAB, and ROS2
 Overview
 
+I created a complete beginner-friendly drone project guide that combines:
+
+C++ for drone control logic
+ROS2 for robotics communication
+MATLAB for simulation and visualization
+
+It includes:
+
+Full project architecture
+Folder structure
+C++ drone classes
+PID controller implementation
+ROS2 publisher example
+MATLAB simulation scripts
+Explanations of how everything works together
+Important robotics and OOP concepts
+Suggestions for expanding into advanced robotics projects
+
 This project demonstrates how to build a simple autonomous drone control system using:
 
 C++ → low-level drone control logic
 MATLAB → simulation, visualization, and controller tuning
 ROS2 → communication framework between drone components
 
-The goal is to teach you:
 
-Object-Oriented Programming in C++
-Robotics communication using ROS2
-PID control systems
-Sensor simulation
-Drone movement and navigation
-MATLAB plotting and simulation
-🧠 What You Will Build
-
-You will create a drone system that can:
+This drone system that can:
 
 Take off
 Land
